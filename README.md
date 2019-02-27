@@ -1,0 +1,2 @@
+# simpleCodeGeneration
+简单的通过数据库字段信息创建对应的pojo代码生成器
